@@ -1,1 +1,2 @@
 # open_addressing_hash_table
+An implementation of an open addressing hash table comparing linear and quadratic probing collision resolution strategies. The code runs an experiment measuring average probing steps across 100 trials using randomly generated 4-digit keys and then compares the results. This was originally taken from an in-class homework and modified. 
